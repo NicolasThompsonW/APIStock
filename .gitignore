@@ -1,0 +1,16 @@
+connection.txt
+PracticaAlgoritmosC#.dib
+README2.md
+/.vscode
+.env
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Entity Framework
+*.mdf
+*.ldf
